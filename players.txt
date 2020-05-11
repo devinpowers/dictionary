@@ -1,0 +1,38 @@
+Team         Player
+Lakers	     James
+Lakers       Davis
+Hawks	     Young
+Clippers     George
+Clippers     Paul	
+Pistons      Wallace
+Pistons      Isiah
+Pistons	     Biillups
+Sparks	     Leslie
+
+Clippers     Griffin
+Bulls        Pippen
+Heat	     Wade
+Heat         Butler
+Sparks	     Parker
+
+Bulls	     Jordan
+Lakers	     Johnson
+Bulls        Rose
+Magic        McGrady
+Sky	     Dolson
+Liberty	     Ionescu
+Lakers	     Bryant
+Liberty      Nurse
+Knicks       Frazier
+Knicks       Ewing
+Liberty      Xu
+Heat	     Herro
+Liberty      Durr
+
+Knicks	     Starks
+Knicks       Reed
+Celtics	     Bird
+
+Bulls	     Armstrong
+Bulls        Rose
+Pistons	     Rodman	

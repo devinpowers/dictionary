@@ -1,0 +1,14 @@
+City          Team
+Los_Angeles  Lakers
+Los_Angeles  Clippers
+Los_Angeles  Sparks
+
+Detroit	     Pistons
+New_York     Knicks
+
+New_York     Liberty
+Miami	     Heat
+
+Chicago	     Bulls
+
+Chicago      Sky
